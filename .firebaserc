@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "quarantifyapp"
+  },
+  "targets": {
+    "quarantifyapp": {
+      "hosting": {
+        "landing": [
+          "quarantify"
+        ]
+      }
+    }
+  }
+}
